@@ -31,7 +31,7 @@ export default class Navi extends React.Component {
       
       <div class="bg-img">  
         <Navbar  light expand="md">
-          <NavbarBrand><Link className="btnLink" to="/">Northwind Mağazası</Link></NavbarBrand>
+          <NavbarBrand><Link className="btnLink" to="/northwind-redux">Northwind Mağazası</Link></NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>

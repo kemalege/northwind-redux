@@ -13,7 +13,7 @@ function App() {
     <Container>
       <Navi/>
       <Routes>
-        <Route path="/" element={<Dashboard/>} />
+        <Route path="/northwind-redux" element={<Dashboard/>} />
         <Route path="/product" element={<Dashboard/>} />     
         <Route path="/saveproduct/:productId" element={<AddOrUpdateProduct/>} />
         <Route path="/saveproduct" element={<AddOrUpdateProduct/>} />
