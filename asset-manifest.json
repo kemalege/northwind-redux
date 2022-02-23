@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/northwind-redux/static/css/main.f3b0d9b4.css",
+    "main.js": "/northwind-redux/static/js/main.42e4b7ab.js",
+    "static/js/787.14ed7320.chunk.js": "/northwind-redux/static/js/787.14ed7320.chunk.js",
+    "static/media/image_1.jpg": "/northwind-redux/static/media/image_1.560e38e799908a8a535a.jpg",
+    "index.html": "/northwind-redux/index.html",
+    "main.f3b0d9b4.css.map": "/northwind-redux/static/css/main.f3b0d9b4.css.map",
+    "main.42e4b7ab.js.map": "/northwind-redux/static/js/main.42e4b7ab.js.map",
+    "787.14ed7320.chunk.js.map": "/northwind-redux/static/js/787.14ed7320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b0d9b4.css",
+    "static/js/main.42e4b7ab.js"
+  ]
+}
