@@ -1,0 +1,30 @@
+.btnLink{
+    color: rgba(36, 28, 61, 0.897);
+    text-decoration: none;
+    
+}
+.btnLink:hover {
+    color: rgb(180, 121, 172);
+    transition: all 0.1s ease-in-out;
+    
+  }
+.bg-img {
+    /* The image used */
+    background-image: url("./assets/image_1.jpg");
+  
+    min-height: 100px;
+    /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+.primary {
+    color: rgb(0, 0, 0);
+}
+.font-xl {
+    font-size: 72px;
+}
